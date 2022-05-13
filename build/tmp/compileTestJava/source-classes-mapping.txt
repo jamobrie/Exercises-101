@@ -1,0 +1,6 @@
+singletonandprototype/prototype/PlasticTreeTest.java
+ singletonandprototype.prototype.PlasticTreeTest
+threadsafety/threadsafetytest/ThreadSafetyTest.java
+ threadsafety.threadsafetytest.ThreadSafetyTest
+reflection/ReflectionTest.java
+ reflection.ReflectionTest

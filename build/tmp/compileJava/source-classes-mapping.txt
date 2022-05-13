@@ -1,2 +1,200 @@
-BasicExercises.java
- BasicExercises
+singletonandprototype/singletons/PracticalExampleOfSingleton.java
+ singletonandprototype.singletons.PracticalExampleOfSingleton
+enums/StringEnum.java
+ enums.StringEnum
+collections/convertcollections/ConvertCollections.java
+ collections.convertcollections.ConvertCollections
+collections/lists/Lists.java
+ collections.lists.Lists
+variableaccess/InterviewBit.java
+ variableaccess.Driver
+ variableaccess.InterviewBit
+threadsafety/StateHolder.java
+ threadsafety.StateHolder
+singletonandprototype/singletons/AttemptAtEnumSingleton.java
+ singletonandprototype.singletons.AttemptAtEnumSingleton
+threadsafety/counter/SynchronizedCounter.java
+ threadsafety.counter.SynchronizedCounter
+verions/of/java/Java16.java
+ verions.of.java.Java16
+singletonandprototype/prototype/Tree.java
+ singletonandprototype.prototype.Tree
+sort/bubblesort/BubbleSortAttempt.java
+ sort.bubblesort.BubbleSortAttempt
+collections/vector/VectorExample.java
+ collections.vector.VectorExample
+relfection/Eating.java
+ relfection.Eating
+garbagecollection/GarbageCollectionHowToTrigger.java
+ garbagecollection.GarbageCollectionHowToTrigger
+ garbagecollection.GarbageCollectionHowToTrigger$Teacher
+abstractinterface/Actor.java
+ abstractinterface.Actor
+enums/IntEnum.java
+ enums.IntEnum
+serializationanddeserialization/TransientKeyword.java
+ serializationanddeserialization.Test
+ serializationanddeserialization.TransientKeyword
+singletonandprototype/prototype/PlasticTree.java
+ singletonandprototype.prototype.PlasticTree
+basicexercise2/BasicExercises2.java
+ basicexercise2.BasicExercises2
+looping/SumOfDigitsInNumber.java
+ looping.SumOfDigitsInNumber
+methodcallingclass/DeepRecursion.java
+ methodcallingclass.DeepRecursion
+ methodcallingclass.Driver
+shapes/basicexercise1/Shape.java
+ shapes.basicexercise1.Shape
+conversion/CalculateDistance.java
+ conversion.CalculateDistance
+printing/Printing.java
+ printing.Printing
+enums/ObjectEnum.java
+ enums.ObjectEnum
+threadsafety/ThreadA.java
+ threadsafety.ThreadA
+polymorphism/StaticPolymorphism_overloading.java
+ polymorphism.Child
+ polymorphism.Parent
+ polymorphism.StaticOverrideTest
+ polymorphism.StaticPolymorphism_overloading
+ polymorphism.StaticPolymorphism_overloading$TestForStatic
+ polymorphism.StaticPolymorphism_overloading$nonStatic
+looping/UniqueCombinationOfNumbers.java
+ looping.UniqueCombinationOfNumbers
+functional/nterface/ChildClass.java
+ functional.nterface.ChildClass
+threadsafety/SafetyInPractice.java
+ threadsafety.SafetyInPractice
+abstractinterface/Car.java
+ abstractinterface.Car
+sort/insertsort/InsertSortExample.java
+ sort.insertsort.InsertSortExample
+functional/nterface/FunctionalInterfaceParentClass.java
+ functional.nterface.FunctionalInterfaceParentClass
+anonymousClass/AnonymousClass.java
+ anonymousClass.AnonymousClass
+threadsafety/ThreadB.java
+ threadsafety.ThreadB
+threadsafety/threadsafetytest/Threadsafe.java
+ threadsafety.threadsafetytest.Threadsafe
+singletonandprototype/singletons/EnumSingleton.java
+ singletonandprototype.singletons.EnumSingleton
+relfection/Goat.java
+ relfection.Goat
+threadsafety/counter/Counter.java
+ threadsafety.counter.Counter
+conversion/Parsing.java
+ conversion.Parsing
+singletonandprototype/singletons/SingletonInAction.java
+ singletonandprototype.singletons.SingletonInAction
+ascii/CalculateAscii.java
+ ascii.CalculateAscii
+superKeyword/ChildClass.java
+ superKeyword.ChildClass
+singletonandprototype/singletons/AttemptAtSingleton.java
+ singletonandprototype.singletons.AttemptAtSingleton
+abstractinterface/Producer.java
+ abstractinterface.Producer
+relfection/Locomotion.java
+ relfection.Locomotion
+serializationanddeserialization/serialization/SerializationExample.java
+ serializationanddeserialization.serialization.SerializationExample
+shapes/basicexercise1/Circle.java
+ shapes.basicexercise1.Circle
+singletonandprototype/singletons/ThreadSafeSingletonUsingSynchronized.java
+ singletonandprototype.singletons.ThreadSafeSingletonUsingSynchronized
+threadsafety/threadsafetytest/MyCounter.java
+ threadsafety.threadsafetytest.MyCounter
+compositionAggregAndAssociation/association/Child.java
+ compositionAggregAndAssociation.association.Child
+ compositionAggregAndAssociation.association.Mother
+compositionAggregAndAssociation/aggregation/Wheel.java
+ compositionAggregAndAssociation.aggregation.Wheel
+compositionAggregAndAssociation/composition/Building.java
+ compositionAggregAndAssociation.composition.Building
+ compositionAggregAndAssociation.composition.Building$Room
+ compositionAggregAndAssociation.composition.BuildingWithDefinitionRoomInMethod
+ compositionAggregAndAssociation.composition.BuildingWithDefinitionRoomInMethod$1
+ compositionAggregAndAssociation.composition.BuildingWithDefinitionRoomInMethod$1InlineRoom
+ compositionAggregAndAssociation.composition.BuildingWithDefinitionRoomInMethod$Room
+relfection/Animal.java
+ relfection.Animal
+finalword/FinalClass.java
+ finalword.FinalClass
+ finalword.FinalClass$finalWord
+sort/NumberGenerator.java
+ sort.NumberGenerator
+collections/CollectionsNotes.java
+ collections.CollectionsNotes
+threadsafety/counter/AtomicCounter.java
+ threadsafety.counter.AtomicCounter
+abstractinterface/Alto.java
+ abstractinterface.Alto
+files/SizeOfFile.java
+ files.SizeOfFile
+sort/bubblesort/BubbleSortingExample.java
+ sort.bubblesort.BubbleSortingExample
+abstractinterface/ActorProducer.java
+ abstractinterface.ActorProducer
+looping/InfiniteLoop.java
+ looping.InfiniteLoop
+verions/of/java/Java18.java
+ verions.of.java.Java18
+relfection/mynotes/Reflection.java
+ relfection.mynotes.Reflection
+time/CurrentTime.java
+ time.CurrentTime
+polymorphism/DynamicPolymorphism_overriding.java
+ polymorphism.Animal
+ polymorphism.Dog
+ polymorphism.DynamicPolymorphism_overriding
+ polymorphism.TestDog
+singletonandprototype/singletons/ThreadSafeSingletonUsingEarlyInit.java
+ singletonandprototype.singletons.ThreadSafeSingletonUsingEarlyInit
+abstractinterface/Santro.java
+ abstractinterface.Santro
+collections/sets/Sets.java
+ collections.sets.Sets
+innervsstatic/InnerClassExamples.java
+ innervsstatic.InnerClassExamples
+superKeyword/ParentClass.java
+ superKeyword.ParentClass
+singletonandprototype/prototype/PineTree.java
+ singletonandprototype.prototype.PineTree
+verions/of/java/Java14.java
+ verions.of.java.Java14
+collections/maps/Maps.java
+ collections.maps.Maps
+serializationanddeserialization/SerializeExample.java
+ serializationanddeserialization.SerializeExample
+threadsafety/ThreadState.java
+ threadsafety.ThreadState
+ threadsafety.ThreadState$1
+Builder.java
+ Builder
+sort/javacomparable/Student.java
+ sort.javacomparable.Student
+ sort.javacomparable.Student$SortingAlgorithms
+shapes/basicexercise1/BasicExercises.java
+ shapes.basicexercise1.BasicExercises
+shapes/basicexercise1/Rectangle.java
+ shapes.basicexercise1.Rectangle
+sort/javacomparator/SortByID.java
+ sort.javacomparator.SortByID
+superKeyword/SuperKeyword.java
+ superKeyword.SuperKeyword
+compositionAggregAndAssociation/aggregation/Car.java
+ compositionAggregAndAssociation.aggregation.Car
+collections/queues/Queues.java
+ collections.queues.Queues
+design/patterns/Singleton.java
+ design.patterns.Singleton
+verions/of/java/Java17.java
+ verions.of.java.Java17
+garbagecollection/IslandOfIsolation.java
+ garbagecollection.IslandOfIsolation
+singletonandprototype/singletons/ThreadSafeSingletonUsingLazyInit.java
+ singletonandprototype.singletons.ThreadSafeSingletonUsingLazyInit
+ singletonandprototype.singletons.ThreadSafeSingletonUsingLazyInit$InstanceHolder
